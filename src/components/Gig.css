@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+#gig {
+    border-style: solid 
+}
+
 .logo {
     width: 15rem;
 }
@@ -17,5 +21,18 @@
 .image {
     width: 200px;
     border-radius: 25%;
+}
+
+.button{
+	width: 50px;
+	height: 50px;
+    top:50%;
+    position: fixed;
+	left: 50%;
+	margin-top: -45px;
+	margin-left: -50px;
+	border-radius: 5px;
+	background: none;
+	cursor: pointer;
 }
 
